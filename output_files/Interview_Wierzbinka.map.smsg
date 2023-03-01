@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at sincos.v(33): always construct contains both blocking and non-blocking assignments File: C:/Users/filip/Desktop/intel/sincos.v Line: 33

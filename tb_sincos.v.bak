@@ -1,0 +1,14 @@
+module tb_sincos();
+
+wire[31:1] sin, cos, angle;
+
+sincos u_sincos (
+	.angle(angle),
+	.sin(sin),
+	.cos(cos)
+);
+
+initial begin
+	angle
+
+end

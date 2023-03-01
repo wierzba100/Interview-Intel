@@ -1,0 +1,525 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sin[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[7]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[8]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[9]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[10]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[11]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[12]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[13]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[14]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[15]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[16]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[17]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[18]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[19]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[20]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[21]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[22]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[23]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[24]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[25]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[26]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[27]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[28]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[29]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[30]",
+					"strict" : false
+				},
+				{
+					"name" : "sin[31]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[0]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[1]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[2]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[3]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[4]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[5]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[6]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[7]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[8]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[9]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[10]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[11]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[12]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[13]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[14]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[15]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[16]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[17]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[18]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[19]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[20]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[21]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[22]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[23]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[24]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[25]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[26]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[27]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[28]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[29]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[30]",
+					"strict" : false
+				},
+				{
+					"name" : "cos[31]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[0]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[1]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[2]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[3]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[4]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[5]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[6]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[7]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[8]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[9]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[10]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[11]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[12]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[13]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[14]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[15]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[16]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[17]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[18]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[19]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[20]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[21]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[22]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[23]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[24]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[25]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[26]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[27]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[28]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[29]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[30]",
+					"strict" : false
+				},
+				{
+					"name" : "trigonomethric_one[31]",
+					"strict" : false
+				},
+				{
+					"name" : "clk_in",
+					"strict" : false
+				},
+				{
+					"name" : "angle[31]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[30]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[29]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[28]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[27]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[26]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[25]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[24]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[23]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[22]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[21]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[20]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[19]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[18]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[17]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[16]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[15]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[14]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[13]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[12]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[11]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[10]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[9]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[8]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[7]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[6]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[5]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[4]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[3]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[2]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[1]",
+					"strict" : false
+				},
+				{
+					"name" : "angle[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
